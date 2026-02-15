@@ -1,6 +1,15 @@
 {
   "name": "Rothschild Capital",
   "symbol": "RTC",
-  "description": "Rothschild Capital - Elite investment & finance token on Solana. Total supply: 100,000,000. Fair launch.",
-  "image": "https://raw.githubusercontent.com/RothschildCapital/rothschild-capital-metadata/main/RothschildCapital.png"
+  "description": "The official token of Rothschild Capital Project.",
+  "image": "https://raw.githubusercontent.com/RothschildCapital/rothschild-capital-metadata/main/RothschildCapital.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/RothschildCapital/rothschild-capital-metadata/main/RothschildCapital.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
